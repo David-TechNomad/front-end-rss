@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-26 08:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-30 17:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1615,6 +1615,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/) 
 - [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
 - [2021-03-31-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) 
 - [2021-02-12-使用grid-area等Grid布局属性轻松实现元素层叠效果](https://www.zhangxinxu.com/wordpress/2021/02/grid-area-absolute-cover/) 
@@ -1635,6 +1636,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html) 
 - [2021-05-19-中国经济的数字逻辑](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html) 
 - [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html) 
 - [2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html) 

@@ -23248,6 +23248,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何使用CSS禁止元素拖拽？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "666，看hr标签实现分隔线如何玩出花",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/",
+        "date": "2021-05-30"
+      },
+      {
         "title": "使用CSS revert全局关键字还原display显示元素",
         "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/",
         "date": "2021-05-16"
@@ -24159,6 +24169,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 160 期）：中年码农的困境",
+        "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
+        "date": "2021-05-28"
+      },
       {
         "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪",
         "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",

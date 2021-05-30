@@ -55,7 +55,7 @@ function handlerCommit(){
   Git(RESP_PATH)
      .add('./*')
      .commit('更新: ' + newData.titles.join('、'))
-     .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
+     .push(['-u', 'origin', 'main'], () => console.log('完成抓取和上传！'));
 }
 
 /**

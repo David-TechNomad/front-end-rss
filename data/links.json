@@ -22731,6 +22731,16 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "淘系前端研发工具 AppWorks 正式发布",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/drggiq",
+        "date": "2021-06-22"
+      },
+      {
+        "title": "影响编码心流的问题及其对策",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/iwtk19",
+        "date": "2021-03-17"
+      },
+      {
         "title": "All in one：项目级 monorepo 策略最佳实践",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/uihagy",
         "date": "2021-05-15"
@@ -23247,6 +23257,26 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "为什么HTML <picture>元素很少见人使用？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/html-picture/",
+        "date": "2021-07-26"
+      },
+      {
+        "title": "为什么white-space:nowrap可以让文字一行显示？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/css-white-space-nowrap/",
+        "date": "2021-07-26"
+      },
+      {
+        "title": "使用ogv.js在Android浏览器解析webM视频",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/ogv-js-android-webm-video/",
+        "date": "2021-07-24"
+      },
+      {
+        "title": "利用废弃的html rel import实现页面include功能",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/html-rel-import-include/",
+        "date": "2021-07-22"
+      },
       {
         "title": "借助SVG滤镜实现CSS无法实现的阴影和模糊效果",
         "link": "https://www.zhangxinxu.com/wordpress/2021/07/svg-filter-shadow-css-blur/",

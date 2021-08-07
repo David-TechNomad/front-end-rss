@@ -22731,6 +22731,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "服饰3D柔性渲染调研及实践",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/fufsgh",
+        "date": "2021-08-05"
+      },
+      {
         "title": "淘系前端研发工具 AppWorks 正式发布",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/drggiq",
         "date": "2021-06-22"
@@ -24220,6 +24225,21 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 170 期）：软件订阅制的胜利",
+        "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html",
+        "date": "2021-08-06"
+      },
+      {
+        "title": "科技爱好者周刊（第 169 期）：五菱汽车的产品设计",
+        "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html",
+        "date": "2021-07-30"
+      },
+      {
+        "title": "科技爱好者周刊（第 168 期）：游戏《底特律：变人》",
+        "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html",
+        "date": "2021-07-23"
+      },
+      {
         "title": "科技爱好者周刊（第 167 期）：广告拦截器太过分了",
         "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html",
         "date": "2021-07-16"
@@ -25416,6 +25436,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "SSR、SSG、ISR、DPR 有什么区别？",
+        "link": "http://www.yyyweb.com/5407.html",
+        "date": "2021-08-05"
+      },
+      {
+        "title": "推荐常用的六个插件武装你的 Chrome",
+        "link": "http://www.yyyweb.com/5403.html",
+        "date": "2021-08-05"
+      },
       {
         "title": "LogicFlow：专注流程可视化的前端框架",
         "link": "http://www.yyyweb.com/5399.html",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-31 22:00:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-08-07 18:00:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1641,6 +1641,8 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html) 
+- [2021-07-30-科技爱好者周刊（第-169-期）：五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html) 
 - [2021-07-16-科技爱好者周刊（第-167-期）：广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html) 
 - [2021-07-02-科技爱好者周刊（第-165-期）：全端-App-的时代](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html) 
 - [2021-06-28-程序员的酒后真言](http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html) 
@@ -1838,6 +1840,7 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [2021-03-05-LogicFlow：专注流程可视化的前端框架](http://www.yyyweb.com/5399.html) 
 - [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html) 
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html) 

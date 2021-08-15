@@ -23263,6 +23263,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "polyfill、ponyfill、prollyfill傻傻分不清楚",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/",
+        "date": "2021-08-08"
+      },
+      {
+        "title": "SVG任意基本图形转path路径",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/",
+        "date": "2021-08-07"
+      },
+      {
         "title": "为什么HTML <picture>元素很少见人使用？",
         "link": "https://www.zhangxinxu.com/wordpress/2021/07/html-picture/",
         "date": "2021-07-26"
@@ -24224,6 +24234,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 171 期）：云服务流量有多贵？",
+        "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html",
+        "date": "2021-08-13"
+      },
       {
         "title": "科技爱好者周刊（第 170 期）：软件订阅制的胜利",
         "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html",

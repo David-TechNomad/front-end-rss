@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-08-07 18:00:47，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-08-15 12:00:44，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) ![](assets/new.png)  
+- [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)  
 - [2021-06-22-淘系前端研发工具-AppWorks-正式发布](https://fed.taobao.org/blog/taofed/do71ct/drggiq)  
 - [2021-03-17-影响编码心流的问题及其对策](https://fed.taobao.org/blog/taofed/do71ct/iwtk19)  
 - [2021-05-15-All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy)  
@@ -157,6 +157,8 @@
 </summary>
 
 
+- [2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/) ![](assets/new.png)  
+- [2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/) ![](assets/new.png)  
 - [2021-07-26-为什么HTML-<picture>元素很少见人使用？](https://www.zhangxinxu.com/wordpress/2021/07/html-picture/)  
 - [2021-07-26-为什么white-space:nowrap可以让文字一行显示？](https://www.zhangxinxu.com/wordpress/2021/07/css-white-space-nowrap/)  
 - [2021-07-24-使用ogv.js在Android浏览器解析webM视频](https://www.zhangxinxu.com/wordpress/2021/07/ogv-js-android-webm-video/)  
@@ -175,8 +177,6 @@
 - [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/)  
 - [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/)  
 - [2021-03-31-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/)  
-- [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)  
-- [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,9 +188,10 @@
 </summary>
 
 
-- [2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html) ![](assets/new.png)  
-- [2021-07-30-科技爱好者周刊（第-169-期）：五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html) ![](assets/new.png)  
-- [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html) ![](assets/new.png)  
+- [2021-08-13-科技爱好者周刊（第-171-期）：云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html) ![](assets/new.png)  
+- [2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html)  
+- [2021-07-30-科技爱好者周刊（第-169-期）：五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html)  
+- [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)  
 - [2021-07-16-科技爱好者周刊（第-167-期）：广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html)  
 - [2021-07-09-科技爱好者周刊（第-166-期）：视频学习胜过读书吗？](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html)  
 - [2021-07-02-科技爱好者周刊（第-165-期）：全端-App-的时代](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html)  
@@ -207,7 +208,6 @@
 - [2021-05-07-科技爱好者周刊（第-157-期）：KK-给年轻人的建议](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html)  
 - [2021-04-30-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)  
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)  
-- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,8 +219,8 @@
 </summary>
 
 
-- [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) ![](assets/new.png)  
-- [2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html) ![](assets/new.png)  
+- [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html)  
+- [2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html)  
 - [2021-03-05-LogicFlow：专注流程可视化的前端框架](http://www.yyyweb.com/5399.html)  
 - [2020-12-05-🎉-Element-UI-for-Vue-3.0-来了！](http://www.yyyweb.com/5398.html)  
 - [2020-11-18-不可思议，纯-CSS-实现图片滚动](http://www.yyyweb.com/5392.html)  

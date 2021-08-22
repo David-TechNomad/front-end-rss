@@ -1,6 +1,6 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
@@ -15904,7 +15904,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
@@ -23262,6 +23262,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "不使用file类型input也能触发文件上传",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/",
+        "date": "2021-08-22"
+      },
       {
         "title": "关于《CSS新世界》这本书",
         "link": "https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/",

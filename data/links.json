@@ -22731,6 +22731,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "VS Code 是如何优化启动性能的？",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/wpsf10",
+        "date": "2021-09-08"
+      },
+      {
         "title": "服饰3D柔性渲染调研及实践",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/fufsgh",
         "date": "2021-08-05"
@@ -23262,6 +23267,16 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "借助HTML ping属性实现数据上报",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/09/html-ping/",
+        "date": "2021-09-14"
+      },
+      {
+        "title": "APNG在线制作、兼容、播放和暂停",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/",
+        "date": "2021-09-12"
+      },
       {
         "title": "不使用file类型input也能触发文件上传",
         "link": "https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/",
@@ -24249,6 +24264,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
+        "date": "2021-09-17"
+      },
+      {
+        "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
+        "date": "2021-09-10"
+      },
+      {
+        "title": "《C 语言入门教程》发布了",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
+        "date": "2021-09-07"
+      },
       {
         "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员",
         "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",

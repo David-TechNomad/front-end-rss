@@ -23268,6 +23268,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "兼容IE浏览器的图片局部高斯模糊实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/",
+        "date": "2021-09-30"
+      },
+      {
+        "title": "HTML slot 插槽元素深入",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/",
+        "date": "2021-09-24"
+      },
+      {
         "title": "借助HTML ping属性实现数据上报",
         "link": "https://www.zhangxinxu.com/wordpress/2021/09/html-ping/",
         "date": "2021-09-14"
@@ -24264,6 +24274,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "JavaScript 侦测手机浏览器的五种方法",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
+        "date": "2021-09-29"
+      },
+      {
+        "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
+        "date": "2021-09-24"
+      },
+      {
+        "title": "俄罗斯总理的几何题",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
+        "date": "2021-09-22"
+      },
       {
         "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？",
         "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",

@@ -23268,6 +23268,26 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "见多识广，介绍Web开发中current开头的一些API属性",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/",
+        "date": "2021-11-02"
+      },
+      {
+        "title": "JS复制文字到剪切板的极简实现及扩展",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/",
+        "date": "2021-10-28"
+      },
+      {
+        "title": "CSS @counter-style规则详细介绍",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/",
+        "date": "2021-10-25"
+      },
+      {
+        "title": "CSS content新的替换元素规范行为解读",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/",
+        "date": "2021-10-08"
+      },
+      {
         "title": "兼容IE浏览器的图片局部高斯模糊实现",
         "link": "https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/",
         "date": "2021-09-30"
@@ -24274,6 +24294,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 182 期）：新人优惠的风险",
+        "link": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html",
+        "date": "2021-11-05"
+      },
+      {
+        "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？",
+        "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
+        "date": "2021-10-29"
+      },
+      {
+        "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？",
+        "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
+        "date": "2021-10-22"
+      },
       {
         "title": "JavaScript 侦测手机浏览器的五种方法",
         "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
@@ -25541,6 +25576,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "如何用研发效能搞垮一个团队",
+        "link": "http://www.yyyweb.com/5423.html",
+        "date": "2021-10-25"
+      },
+      {
+        "title": "18 个杀手级 JavaScript 单行代码",
+        "link": "http://www.yyyweb.com/5419.html",
+        "date": "2021-10-23"
+      },
       {
         "title": "前端40+精选VSCode插件，你值得拥有！",
         "link": "http://www.yyyweb.com/5416.html",

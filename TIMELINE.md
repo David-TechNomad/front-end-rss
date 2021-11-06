@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-10-07 12:00:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-11-06 18:00:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -17,8 +17,8 @@
 <td><a href="#2021-07">07月</a></td>
 <td><a href="#2021-08">08月</a></td>
 <td><a href="#2021-09">09月</a></td>
-<td>10月</td>
-<td>11月</td>
+<td><a href="#2021-10">10月</a></td>
+<td><a href="#2021-11">11月</a></td>
 <td>12月</td>
 </tr>
 
@@ -133,6 +133,35 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2021-11">
+ 2021-11
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [【阮一峰的网络日志】2021-11-05-科技爱好者周刊（第-182-期）：新人优惠的风险](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2021-10">
+ 2021-10
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-25-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) 
+- [【阮一峰的网络日志】2021-10-29-科技爱好者周刊（第-181-期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html) 
+- [【阮一峰的网络日志】2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html) 
+- [【前端里】2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html) 
+- [【前端里】2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2021-09">

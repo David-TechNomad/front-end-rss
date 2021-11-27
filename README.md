@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-20 12:00:44，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-27 18:00:44，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -157,7 +157,8 @@
 </summary>
 
 
-- [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) ![](assets/new.png)  
+- [2021-11-24-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) ![](assets/new.png)  
+- [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/)  
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/)  
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)  
 - [2021-10-25-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/)  
@@ -176,7 +177,6 @@
 - [2021-07-24-使用ogv.js在Android浏览器解析webM视频](https://www.zhangxinxu.com/wordpress/2021/07/ogv-js-android-webm-video/)  
 - [2021-07-22-利用废弃的html-rel-import实现页面include功能](https://www.zhangxinxu.com/wordpress/2021/07/html-rel-import-include/)  
 - [2021-07-11-借助SVG滤镜实现CSS无法实现的阴影和模糊效果](https://www.zhangxinxu.com/wordpress/2021/07/svg-filter-shadow-css-blur/)  
-- [2021-07-01-Proxy是代理，Reflect是干嘛用的？](https://www.zhangxinxu.com/wordpress/2021/07/js-proxy-reflect/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) ![](assets/new.png)  
+- [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) ![](assets/new.png)  
+- [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)  
 - [2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html)  
 - [2021-11-05-科技爱好者周刊（第-182-期）：新人优惠的风险](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html)  
 - [2021-10-29-科技爱好者周刊（第-181-期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)  
@@ -207,7 +208,6 @@
 - [2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html)  
 - [2021-07-30-科技爱好者周刊（第-169-期）：五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html)  
 - [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)  
-- [2021-07-16-科技爱好者周刊（第-167-期）：广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

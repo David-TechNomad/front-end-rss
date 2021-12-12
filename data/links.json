@@ -23268,6 +23268,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "flex-end为什么overflow无法滚动及解决方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/",
+        "date": "2021-12-08"
+      },
+      {
         "title": "从js visibilitychange Safari下无效说开去",
         "link": "https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/",
         "date": "2021-11-24"
@@ -24304,6 +24309,16 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 187 期）：元宇宙会成功吗",
+        "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html",
+        "date": "2021-12-10"
+      },
+      {
+        "title": "为什么 Web3 与区块链有关",
+        "link": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
+        "date": "2021-12-07"
+      },
       {
         "title": "科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势",
         "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html",
@@ -25606,6 +25621,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "对混沌工程的五个常见的误解",
+        "link": "http://www.yyyweb.com/5428.html",
+        "date": "2021-12-11"
+      },
       {
         "title": "ECMAScript 2021 通过，写入 ECMAScript 标准",
         "link": "http://www.yyyweb.com/5426.html",

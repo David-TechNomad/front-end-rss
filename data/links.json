@@ -23268,6 +23268,26 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯CSS实现未读消息超过100自动显示为99+",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/",
+        "date": "2022-01-14"
+      },
+      {
+        "title": "还有完没完，怎么又来了个 scrollbar-gutter？",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/",
+        "date": "2022-01-12"
+      },
+      {
+        "title": "JS 标签模板（Tagged templates）什么时候使用？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/",
+        "date": "2021-12-29"
+      },
+      {
+        "title": "深入JS getRandomValues和Math.random方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/",
+        "date": "2021-12-20"
+      },
+      {
         "title": "你不知道的CSS media查询与用户体验",
         "link": "https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/",
         "date": "2021-12-13"
@@ -24314,6 +24334,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术",
+        "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
+        "date": "2022-01-14"
+      },
+      {
+        "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路",
+        "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "科技爱好者周刊（第 190 期）：产品化思维",
+        "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html",
+        "date": "2021-12-31"
+      },
       {
         "title": "科技爱好者周刊（第 188 期）：音乐是反社交",
         "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html",
@@ -25631,6 +25666,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "聊聊我关于 Web 未来发展趋势的看法",
+        "link": "http://www.yyyweb.com/5436.html",
+        "date": "2021-12-26"
+      },
       {
         "title": "对混沌工程的五个常见的误解",
         "link": "http://www.yyyweb.com/5428.html",

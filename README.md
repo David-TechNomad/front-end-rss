@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 18:00:44，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-16 13:16:43，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,7 +157,11 @@
 </summary>
 
 
-- [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) ![](assets/new.png)  
+- [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) ![](assets/new.png)  
+- [2022-01-12-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) ![](assets/new.png)  
+- [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) ![](assets/new.png)  
+- [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) ![](assets/new.png)  
+- [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/)  
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)  
 - [2021-11-24-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)  
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/)  
@@ -173,10 +177,6 @@
 - [2021-08-17-关于《CSS新世界》这本书](https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/)  
 - [2021-08-15-JS-WeakMap应该什么时候使用](https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/)  
 - [2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/)  
-- [2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/)  
-- [2021-07-26-为什么HTML-<picture>元素很少见人使用？](https://www.zhangxinxu.com/wordpress/2021/07/html-picture/)  
-- [2021-07-26-为什么white-space:nowrap可以让文字一行显示？](https://www.zhangxinxu.com/wordpress/2021/07/css-white-space-nowrap/)  
-- [2021-07-24-使用ogv.js在Android浏览器解析webM视频](https://www.zhangxinxu.com/wordpress/2021/07/ogv-js-android-webm-video/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,10 @@
 </summary>
 
 
-- [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) ![](assets/new.png)  
+- [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) ![](assets/new.png)  
+- [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) ![](assets/new.png)  
+- [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) ![](assets/new.png)  
+- [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)  
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)  
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html)  
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)  
@@ -205,9 +208,6 @@
 - [2021-09-10-科技爱好者周刊（第-175-期）：知识广度-vs-知识深度](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html)  
 - [2021-09-07-《C-语言入门教程》发布了](http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html)  
 - [2021-09-03-科技爱好者周刊（第-174-期）：全能程序员-vs-特长程序员](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html)  
-- [2021-08-27-科技爱好者周刊（第-173-期）：网络收音机的设计](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html)  
-- [2021-08-26-最适合程序员的笔记软件](http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html)  
-- [2021-08-20-科技爱好者周刊（第-172-期）：我们会死于气候灾难吗？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,6 +219,7 @@
 </summary>
 
 
+- [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html) ![](assets/new.png)  
 - [2021-12-11-对混沌工程的五个常见的误解](http://www.yyyweb.com/5428.html)  
 - [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html)  
 - [2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html)  
@@ -238,7 +239,6 @@
 - [2020-06-21-18款-Webpack-插件，总会有你想要的！](http://www.yyyweb.com/5380.html)  
 - [2020-05-05-15个可以带给你启发的-SVG-动画示例](http://www.yyyweb.com/5363.html)  
 - [2020-04-19-Flutter-VS-React-Native-VS-Native-性能PK](http://www.yyyweb.com/5360.html)  
-- [2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

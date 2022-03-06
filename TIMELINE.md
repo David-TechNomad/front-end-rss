@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-26 12:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-06 12:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -100,7 +100,7 @@
 <tr>
 <td><a href="#2022-01">01月</a></td>
 <td><a href="#2022-02">02月</a></td>
-<td>03月</td>
+<td><a href="#2022-03">03月</a></td>
 <td>04月</td>
 <td>05月</td>
 <td>06月</td>
@@ -151,6 +151,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2022-03">
+ 2022-03
+</summary>
+
+
+- [【阮一峰的网络日志】2022-03-04-科技爱好者周刊（第-197-期）：如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2022-02">

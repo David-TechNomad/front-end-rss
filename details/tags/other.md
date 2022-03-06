@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-26 12:00:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-06 12:00:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1648,6 +1648,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2022-03-04-科技爱好者周刊（第-197-期）：如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html) 
 - [2022-02-25-科技爱好者周刊（第-196-期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html) 
 - [2022-02-18-科技爱好者周刊（第-195-期）：你做过不在乎结果的项目吗？](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html) 
 - [2022-02-11-科技爱好者周刊（第-194-期）：悲观者正确，乐观者成功](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 13:30:43，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 12:00:43，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,8 +157,9 @@
 </summary>
 
 
-- [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) ![](assets/new.png)  
-- [2022-03-06-CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/) ![](assets/new.png)  
+- [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) ![](assets/new.png)  
+- [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)  
+- [2022-03-06-CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/)  
 - [2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)  
 - [2022-02-21-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/)  
 - [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/)  
@@ -176,7 +177,6 @@
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)  
 - [2021-10-25-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/)  
 - [2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/)  
-- [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2022-03-11-科技爱好者周刊（第-198-期）：美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html) ![](assets/new.png)  
+- [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html) ![](assets/new.png)  
+- [2022-03-11-科技爱好者周刊（第-198-期）：美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)  
 - [2022-03-04-科技爱好者周刊（第-197-期）：如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)  
 - [2022-02-25-科技爱好者周刊（第-196-期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)  
 - [2022-02-18-科技爱好者周刊（第-195-期）：你做过不在乎结果的项目吗？](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)  
@@ -207,7 +208,6 @@
 - [2021-10-29-科技爱好者周刊（第-181-期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)  
 - [2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)  
 - [2021-09-29-JavaScript-侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)  
-- [2021-09-24-科技爱好者周刊（第-177-期）：iPad-的真正用途](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,8 +219,8 @@
 </summary>
 
 
-- [2022-03-06-2022，前端工具链十年盘点](http://www.yyyweb.com/5445.html) ![](assets/new.png)  
-- [2022-03-06-淘宝-npm-域名切换-&&-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html) ![](assets/new.png)  
+- [2022-03-06-2022，前端工具链十年盘点](http://www.yyyweb.com/5445.html)  
+- [2022-03-06-淘宝-npm-域名切换-&&-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html)  
 - [2022-02-13-人生的破局点：马斯洛层次需求「倒序实现」理论](http://www.yyyweb.com/5440.html)  
 - [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html)  
 - [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html)  

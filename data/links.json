@@ -23268,6 +23268,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "基于howler.js写了个音频播放器组件",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/",
+        "date": "2022-03-15"
+      },
+      {
         "title": "介绍8个和滚动相关的CSS属性",
         "link": "https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/",
         "date": "2022-03-07"
@@ -24369,6 +24374,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
+        "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html",
+        "date": "2022-03-18"
+      },
       {
         "title": "科技爱好者周刊（第 198 期）：美国制造是否可能",
         "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html",

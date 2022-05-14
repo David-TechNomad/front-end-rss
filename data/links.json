@@ -23268,6 +23268,31 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS与条形码的生成",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/",
+        "date": "2022-05-12"
+      },
+      {
+        "title": "深入 JS new Function 语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/",
+        "date": "2022-04-30"
+      },
+      {
+        "title": "小tips: JS字体加载失败或完毕的检测",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/",
+        "date": "2022-04-27"
+      },
+      {
+        "title": "CSS实现滚动高度自动变小的粘滞效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/",
+        "date": "2022-04-22"
+      },
+      {
+        "title": "使用CSS size-adjust和unicode-range改变任意文字尺寸",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/",
+        "date": "2022-03-27"
+      },
+      {
         "title": "ascent-override descent-override line-gap-override一锅端",
         "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/",
         "date": "2022-03-21"
@@ -24379,6 +24404,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 206 期）：如何走出失望和怀疑",
+        "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html",
+        "date": "2022-05-13"
+      },
+      {
+        "title": "科技爱好者周刊（第 205 期）：互联网风口过去了吗？",
+        "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html",
+        "date": "2022-05-06"
+      },
+      {
+        "title": "打包工具 rollup.js 入门教程",
+        "link": "http://www.ruanyifeng.com/blog/2022/05/rollup.html",
+        "date": "2022-05-05"
+      },
       {
         "title": "科技爱好者周刊（第 200 期）：低期望，多尝试",
         "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html",
@@ -25746,6 +25786,21 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "90 行代码的 Webpack，你确定不学吗？",
+        "link": "http://www.yyyweb.com/5453.html",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "无用代码去哪了？项目减重之 Rollup Tree-shaking",
+        "link": "http://www.yyyweb.com/5452.html",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？",
+        "link": "http://www.yyyweb.com/5448.html",
+        "date": "2022-03-29"
+      },
       {
         "title": "2022，前端工具链十年盘点",
         "link": "http://www.yyyweb.com/5445.html",

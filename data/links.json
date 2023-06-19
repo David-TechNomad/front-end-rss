@@ -23268,6 +23268,56 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "我使用CSS模拟个假的数字loading效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/",
+        "date": "2023-06-18"
+      },
+      {
+        "title": "使用纯CSS实现噪点效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-noise/",
+        "date": "2023-06-05"
+      },
+      {
+        "title": "使用jsPDF导出PDF文件实践分享",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/",
+        "date": "2023-06-04"
+      },
+      {
+        "title": "CSS margin-trim属性是做什么用的？",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/",
+        "date": "2023-05-31"
+      },
+      {
+        "title": "JS audio加图片序列或canvas转webM/MP4的实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/",
+        "date": "2023-05-21"
+      },
+      {
+        "title": "使用ImageDecoder API让GIF图片暂停播放",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/",
+        "date": "2023-05-07"
+      },
+      {
+        "title": "AI代码辅助工具codeium和copilot在前端表现对比",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/",
+        "date": "2023-04-23"
+      },
+      {
+        "title": "CSS又出了个revert-layer全局关键字😂",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/",
+        "date": "2023-03-24"
+      },
+      {
+        "title": "瞎折腾，使用JS让中文内容莫名其妙、狗屁不通",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/",
+        "date": "2023-03-17"
+      },
+      {
+        "title": "好奇心驱使下试验了chatGPT写CSS代码的能力",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/",
+        "date": "2023-03-17"
+      },
+      {
         "title": "JS与条形码的生成",
         "link": "https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/",
         "date": "2022-05-12"
@@ -24404,6 +24454,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT",
+        "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html",
+        "date": "2023-06-16"
+      },
+      {
+        "title": "科技爱好者周刊（第 258 期）：卡马克的猫",
+        "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html",
+        "date": "2023-06-09"
+      },
+      {
+        "title": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
+        "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
+        "date": "2023-06-02"
+      },
       {
         "title": "科技爱好者周刊（第 206 期）：如何走出失望和怀疑",
         "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html",
@@ -25786,6 +25851,56 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "国内开通 Chat GPT Plus 保姆级教程【收藏】",
+        "link": "http://www.yyyweb.com/5508.html",
+        "date": "2023-04-09"
+      },
+      {
+        "title": "最全的 “文本溢出截断省略” CSS & JS 方案",
+        "link": "http://www.yyyweb.com/5506.html",
+        "date": "2023-02-26"
+      },
+      {
+        "title": "8个 CSS & JavaScript 实现的相册特效",
+        "link": "http://www.yyyweb.com/5504.html",
+        "date": "2023-02-11"
+      },
+      {
+        "title": "【火爆全网】OpenAI ChatGPT 账号注册攻略！",
+        "link": "http://www.yyyweb.com/5494.html",
+        "date": "2023-02-07"
+      },
+      {
+        "title": "如何基于 Web Components 开发 UI 组件库",
+        "link": "http://www.yyyweb.com/5492.html",
+        "date": "2023-02-06"
+      },
+      {
+        "title": "Web Components 入门教程【实例】",
+        "link": "http://www.yyyweb.com/5491.html",
+        "date": "2023-02-06"
+      },
+      {
+        "title": "15款用于设计数字的最佳数字字体",
+        "link": "http://www.yyyweb.com/5502.html",
+        "date": "2023-02-06"
+      },
+      {
+        "title": "什么是比较好的低代码产品？",
+        "link": "http://www.yyyweb.com/5487.html",
+        "date": "2023-02-04"
+      },
+      {
+        "title": "【收藏】2022 年值得推荐的那些 Vue 库！",
+        "link": "http://www.yyyweb.com/5485.html",
+        "date": "2023-01-14"
+      },
+      {
+        "title": "手把手教你从0到1打造一个 WebRTC 应用",
+        "link": "http://www.yyyweb.com/5480.html",
+        "date": "2022-12-03"
+      },
       {
         "title": "90 行代码的 Webpack，你确定不学吗？",
         "link": "http://www.yyyweb.com/5453.html",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 12:40:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-06-19 10:00:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1617,6 +1617,8 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
+- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
@@ -1649,6 +1651,9 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) 
+- [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html) 
 - [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html) 
 - [2022-05-06-科技爱好者周刊（第-205-期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html) 
 - [2022-03-25-科技爱好者周刊（第-200-期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html) 
@@ -1879,6 +1884,10 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2023-04-09-国内开通-Chat-GPT-Plus-保姆级教程【收藏】](http://www.yyyweb.com/5508.html) 
+- [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html) 
+- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html) 
+- [2023-02-04-什么是比较好的低代码产品？](http://www.yyyweb.com/5487.html) 
 - [2022-03-06-2022，前端工具链十年盘点](http://www.yyyweb.com/5445.html) 
 - [2022-02-13-人生的破局点：马斯洛层次需求「倒序实现」理论](http://www.yyyweb.com/5440.html) 
 - [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html) 

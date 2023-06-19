@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 12:40:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-06-19 10:00:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -549,6 +549,9 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](https://fed.taobao.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](https://fed.taobao.org/blog/2017/12/07/machine-learning/) 
+- [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) 
+- [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/) 
+- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/) 
 - [2022-05-12-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
@@ -632,6 +635,10 @@
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html) 
+- [2023-02-26-最全的-“文本溢出截断省略”-CSS-&-JS-方案](http://www.yyyweb.com/5506.html) 
+- [2023-02-11-8个-CSS-&-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html) 
+- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html) 
+- [2023-02-06-Web-Components-入门教程【实例】](http://www.yyyweb.com/5491.html) 
 - [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html) 
 - [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html) 
 - [2020-11-18-不可思议，纯-CSS-实现图片滚动](http://www.yyyweb.com/5392.html) 

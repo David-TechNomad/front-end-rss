@@ -23268,6 +23268,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS sin()/cos()等数学三角函数简介与应用",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/",
+        "date": "2023-06-30"
+      },
+      {
         "title": "我使用CSS模拟个假的数字loading效果",
         "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/",
         "date": "2023-06-18"
@@ -24454,6 +24459,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1",
+        "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html",
+        "date": "2023-06-30"
+      },
       {
         "title": "科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT",
         "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html",

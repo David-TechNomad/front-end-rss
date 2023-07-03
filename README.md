@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-06-19 10:00:41，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-07-03 14:09:41，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,16 +157,17 @@
 </summary>
 
 
-- [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/) ![](assets/new.png)  
-- [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/) ![](assets/new.png)  
-- [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) ![](assets/new.png)  
-- [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) ![](assets/new.png)  
-- [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/) ![](assets/new.png)  
-- [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) ![](assets/new.png)  
-- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) ![](assets/new.png)  
-- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/) ![](assets/new.png)  
-- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/) ![](assets/new.png)  
-- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/) ![](assets/new.png)  
+- [2023-06-30-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/) ![](assets/new.png)  
+- [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/)  
+- [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)  
+- [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)  
+- [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)  
+- [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)  
+- [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
+- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
+- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
+- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
+- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2022-05-12-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)  
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)  
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)  
@@ -176,7 +177,6 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)  
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)  
 - [2022-03-06-CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/)  
-- [2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,9 +188,10 @@
 </summary>
 
 
-- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) ![](assets/new.png)  
-- [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) ![](assets/new.png)  
-- [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html) ![](assets/new.png)  
+- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) ![](assets/new.png)  
+- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
+- [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)  
+- [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)  
 - [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)  
 - [2022-05-06-科技爱好者周刊（第-205-期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)  
 - [2022-05-05-打包工具-rollup.js-入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html)  
@@ -207,7 +208,6 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)  
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)  
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html)  
-- [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,16 +219,16 @@
 </summary>
 
 
-- [2023-04-09-国内开通-Chat-GPT-Plus-保姆级教程【收藏】](http://www.yyyweb.com/5508.html) ![](assets/new.png)  
-- [2023-02-26-最全的-“文本溢出截断省略”-CSS-&-JS-方案](http://www.yyyweb.com/5506.html) ![](assets/new.png)  
-- [2023-02-11-8个-CSS-&-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html) ![](assets/new.png)  
-- [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html) ![](assets/new.png)  
-- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html) ![](assets/new.png)  
-- [2023-02-06-Web-Components-入门教程【实例】](http://www.yyyweb.com/5491.html) ![](assets/new.png)  
-- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html) ![](assets/new.png)  
-- [2023-02-04-什么是比较好的低代码产品？](http://www.yyyweb.com/5487.html) ![](assets/new.png)  
-- [2023-01-14-【收藏】2022-年值得推荐的那些-Vue-库！](http://www.yyyweb.com/5485.html) ![](assets/new.png)  
-- [2022-12-03-手把手教你从0到1打造一个-WebRTC-应用](http://www.yyyweb.com/5480.html) ![](assets/new.png)  
+- [2023-04-09-国内开通-Chat-GPT-Plus-保姆级教程【收藏】](http://www.yyyweb.com/5508.html)  
+- [2023-02-26-最全的-“文本溢出截断省略”-CSS-&-JS-方案](http://www.yyyweb.com/5506.html)  
+- [2023-02-11-8个-CSS-&-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html)  
+- [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html)  
+- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html)  
+- [2023-02-06-Web-Components-入门教程【实例】](http://www.yyyweb.com/5491.html)  
+- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html)  
+- [2023-02-04-什么是比较好的低代码产品？](http://www.yyyweb.com/5487.html)  
+- [2023-01-14-【收藏】2022-年值得推荐的那些-Vue-库！](http://www.yyyweb.com/5485.html)  
+- [2022-12-03-手把手教你从0到1打造一个-WebRTC-应用](http://www.yyyweb.com/5480.html)  
 - [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html)  
 - [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html)  
 - [2022-03-29-Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](http://www.yyyweb.com/5448.html)  

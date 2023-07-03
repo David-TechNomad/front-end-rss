@@ -1,0 +1,304 @@
+<body>
+    <button>付款</button>
+    <script>
+        // 获取button按钮元素
+        const btn = document.querySelector("button");
+        // 定义付款操作函数
+        function payMoney() {
+            console.log("付款成功");
+        }
+        // deBounce
+        let deBounce = (fn, delay) => {
+            let timer = null;
+            return function (...args) {
+                if (timer) {
+                    clearTimeout(timer);
+                }
+                timer = setTimeout(() => {
+                    fn(...args);
+                }, delay)
+            }
+        }
+        // throrrle
+        let throttle = (fn, delay) => {
+            let flag = false;
+            return function (...args) {
+                if (flag) return;
+                flag = true;
+                setTimeout(() => {
+                    fn(...args);
+                    flag = false;
+                }, delay);
+            };
+        };
+        // throrrle
+        let throttle2 = (fn, delay) => {
+            let pre = 0;
+            return function (...args) {
+                let now = new Date();
+                setTimeout(() => {
+                    if (now - pre > delay) {
+                        fn(...args)
+                        pre = now;
+                    }
+                }, delay);
+            };
+        };
+        // 绑定点击事件
+        btn.addEventListener("click", throttle2(payMoney, 1000))
+        // mackNew
+        let mockNew = function () {
+            let newObj = new Object();
+            let fn = [].shift.call(arguments);
+            newObj.__proto__ = fn.prototype;
+            let res = fn.apply(newObj, arguments);
+            return typeof res === "object" ? res : newObj;
+        };
+        function Otaku(name, age) {
+            this.name = name;
+            this.age = age;
+
+            this.habit = "Games";
+        }
+
+        Otaku.prototype.strength = 60;
+
+        Otaku.prototype.sayYourName = function () {
+            console.log("I am " + this.name);
+        };
+        var person = mockNew(Otaku, "Kevin", "18");
+
+        console.log(person.name); // Kevin
+        console.log(person.habit); // Games
+        console.log(person.strength); // 60
+
+        person.sayYourName(); // I am Kevin
+        let mockPromise = function (resolve, reject) {
+            this.status = "pending";
+            this.msg = "";
+            let self = this,
+                process = arguments[0];
+            process(
+                function () {
+                    self.status = "fulfilled";
+                    self.msg = arguments[0];
+                },
+                function () {
+                    self.status = "rejected";
+                    self.msg = arguments[0];
+                }
+            );
+        };
+        mockPromise.prototype.then = function (resolve, reject) {
+            if (this.status === "fulfilled") {
+                arguments[0](this.msg);
+            }
+            if (this.status === "rejected") {
+                arguments[1](this.msg);
+            }
+        };
+        let test = new mockPromise(function (resolve, reject) {
+            reject("test");
+        });
+        test.then(
+            function (res) {
+                console.log(res);
+                console.log("is ok");
+            },
+            function (res) {
+                console.log(res);
+                console.log("is no ok");
+            }
+        );
+        Array.prototype.mockSome = function (fn, val) {
+            if (typeof fn !== "function") {
+                return false;
+            }
+            let arr = this;
+            for (let i = 0; i < arr.length; i++) {
+                let res = fn.call(val, arr[i], i, arr);
+                if (res) return true;
+            }
+            return false;
+        };
+        Array.prototype.mockEvery = function (fn, val) {
+            if (typeof fn !== "function") {
+                return false;
+            }
+            let arr = this;
+            for (let i = 0; i < arr.length; i++) {
+                let res = fn.call(val, arr[i], i, arr);
+                if (!res) return false;
+            }
+            return true;
+        };
+        Array.prototype.mockFlat = function (dep = 1) {
+            return this.reduce((acc, item) => {
+                return acc.concat(
+                    Array.isArray(item) && dep > 0
+                        ? item.mockFlat(--dep)
+                        : Array.isArray(item)
+                            ? [item]
+                            : item
+                );
+            }, []);
+        };
+        let arr2 = [1, 2, 3, 4, 5, 6];
+        console.log(arr2.mockSome((item, index) => {
+            return item > 5
+        }));   // true 
+        // 一假即假，一个条件不满足都返回false
+        let arr3 = [1, 2, 3, 4, 5, 6];
+        console.log(arr3.mockEvery((item, index) => {
+            return item > 5
+        }));   // false
+        let arr4 = [1, 2, 3, 4, 5, 6, [6, 7, [8, 9], [1, 22, 44]], 909];
+        console.log(arr4.mockFlat(4));
+        var lastLog;
+        console.oldLog = console.log;
+        console.log2 = function (str, fn) {
+            console.oldLog(str);
+            lastLog = str;
+            if (fn) {
+                fn();
+            }
+        }
+        console.log2('2222');
+        // console.log2("Hello, Neo", function () {
+        //     alert("1111")
+        // });
+        class mockEvent {
+            constructor() {
+                this._events = this._events || new Map();
+                this._maxListenners = this._maxListenners || 10;
+            }
+            emit(type, ...args) {
+                let handler;
+                // 从储存事件键值对的this._events中获取对应事件回调函数
+                handler = this._events.get(type);
+                if (Array.isArray(handler)) {
+                    for (let i = 0; i < handler.length; i++) {
+                        if (args.length > 0) {
+                            handler[i].apply(this, args);
+                        } else {
+                            handler[i].call(this);
+                        }
+                    }
+                } else {
+                    if (args.length > 0) {
+                        handler.apply(this, args);
+                    } else {
+                        handler.call(this);
+                    }
+                }
+
+                // return true;
+            }
+            addListener(type, fn) {
+                let handler = this._events.get(type)
+                if (!handler) {
+                    this._events.set(type, fn);
+                } else if (handler && typeof handler === 'function') {
+                    this._events.set(type, [handler, fn]);
+                } else {
+                    handler.push(fn)
+                }
+            }
+        }
+        // 实例化
+        const emitter = new mockEvent();
+
+        // 监听一个名为arson的事件对应一个回调函数
+        // 监听同一个事件名
+        emitter.addListener('arson', man => {
+            console.log(`expel ${man}`);
+        });
+        emitter.addListener('arson', man => {
+            console.log(`save ${man}`);
+        });
+
+        emitter.addListener('arson', man => {
+            console.log(`kill ${man}`);
+        });
+
+        // 触发事件
+        emitter.emit('arson', 'low-end');
+        //expel low-end
+        //save low-end
+        //kill low-end
+        // 给定一个有序（非降序）数组，可能含有重复元素，求最小的i使得A[i]等于target，不存在则返回-1
+        // target = 7 ,return 5
+        // target = 8, return -1
+        function binarySearch(arr, target) {
+            let max = arr.length - 1
+            let min = 0
+            while (min <= max) {
+                let mid = Math.floor((max + min) / 2)
+                if (target < arr[mid]) {
+                    max = mid - 1
+                } else if (target > arr[mid]) {
+                    min = mid + 1
+                } else {
+                    return mid
+                }
+            }
+            return -1
+        }
+
+        let arr5 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30];
+        console.log(binarySearch(arr5, 0))
+        // mergeSort
+        let mergeSort = arr => {
+            let len = arr.length;
+            if (len < 2) return arr;
+            let mid = Math.floor(len / 2),
+                left = arr.slice(0, mid),
+                right = arr.slice(mid);
+            return merge(mergeSort(left), mergeSort(right));
+            function merge(left, right) {
+                let res = [];
+                while (left.length && right.length) {
+                    if (left[0] <= right[0]) {
+                        res.push(left.shift());
+                    } else {
+                        res.push(right.shift());
+                    }
+                }
+                while (left.length) {
+                    res.push(left.shift());
+                }
+                while (right.length) {
+                    res.push(right.shift());
+                }
+                return res;
+            }
+        };
+        let arr6 = [1, 22, 3, 44, 5, 6, 7, 48, 9, 140, 11, 12, 13, 14, 115, 16, 17, 18, 119, 20, 21, 122, 23, 124, 215, 26, 827, 248, 29, 30];
+        console.log(mergeSort(arr6))
+        // bubleSort
+        let bubleSort = function (arr) {
+            let temp, len = arr.length - 1, flagIndex = 0;
+            let start = Date.now();
+            for (let i = 0; i < arr.length - 1; i++) {
+                let isSorted = true
+                for (let j = 0; j < len - i - 1; j++) {
+                    if (arr[j] > arr[j + 1]) {
+                        temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
+                        flagIndex = j
+                        isSorted = false;
+                    }
+                }
+                len = flagIndex
+                if (isSorted) break;
+            }
+
+            console.log('xxxxx', Date.now() - start)
+            return arr;
+        };
+
+        var arr66 = [29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5];
+        console.log(bubleSort(arr66));
+    </script>
+</body>

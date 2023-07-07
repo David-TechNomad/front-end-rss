@@ -248,3 +248,43 @@ let bubleSort = function (arr) {
   }
   return arr;
 };
+function fibonacci(n) {
+  if (n <= 0) return 0;
+  if (n === 1 || n === 2) return n;
+  return fibonacci(n - 1) + fibonacci(n - 2);
+}
+let memory = function (fn) {
+  let memo = [];
+  return function (n) {
+    if (memo[n] === undefined) {
+      memo[n] = fn(n);
+    }
+    return memo[n];
+  };
+};
+let template = "我是{{name}},我是{{age}},我是{{sex}}";
+let data = {
+  name: "test",
+  age: 20,
+};
+render(template, data);
+function render(template, data) {
+  let reg = /\{\{(\w+)\}\}/;
+  if (reg.test(template)) {
+    let key = reg.exec(template)[1];
+    template = template.replace(reg, data[key]);
+    return render(template, data);
+  }
+  return template;
+}
+let findStr = function (str) {
+  let obj = {};
+  for (let i = 0; i < str.length; i++) {
+    if (obj[str[i]]) {
+      obj[str[i]]++;
+    } else {
+      obj[str[i]] = 1;
+    }
+  }
+  return obj;
+};

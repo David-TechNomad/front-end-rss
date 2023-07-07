@@ -1,5 +1,7 @@
 <body>
     <button>付款</button>
+    <input type="text" id="text">
+    <div id="show"></div>
     <script>
         // 获取button按钮元素
         const btn = document.querySelector("button");
@@ -300,5 +302,160 @@
 
         var arr66 = [29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5, 29, 45, 51, 68, 72, 97, 1, 3, 2, 6, 4, 95, 5];
         console.log(bubleSort(arr66));
+        let t = Date.now();
+        function fibonacci(n) {
+            if (n <= 0) return 0;
+            if (n === 1 || n === 2) return n;
+            return fibonacci(n - 1) + fibonacci(n - 2);
+        }
+        let memory = function (fn) {
+            let memo = [];
+            return function (n) {
+                if (memo[n] === undefined) {
+                    memo[n] = fn(n)
+                }
+                return memo[n]
+            }
+        }
+        let fibonacci2 = memory((n) => {
+            if (n <= 0) return 0;
+            if (n === 1 || n === 2) return n;
+            return fibonacci2(n - 1) + fibonacci2(n - 2);
+        })
+        console.log(fibonacci2(40))
+        console.log('xxxxe', Date.now() - t)
+        let template = "我是{{name}},我是{{age}},我是{{sex}}";
+        let data = {
+            name: "test",
+            age: 20,
+        };
+        console.log(render(template, data));
+        function render(template, data) {
+            let reg = /\{\{(\w+)\}\}/;
+            if (reg.test(template)) {
+                let key = reg.exec(template)[1];
+                template = template.replace(reg, data[key]);
+                return render(template, data);
+            }
+            return template;
+        }
+        var s1 = "get-element-by-id"
+        let f = function (str) {
+            return str.replace(/-\w/g, function (x) {
+                return x.substr(1).toUpperCase()
+            })
+        }
+        console.log(f(s1))
+        let findStr = (str) => {
+            let num = 0, chat = "", res = {};
+            // let strArr = str.split('').sort().join('');
+            let reg = /(\w)\1+/g;
+            str.replace(reg, ($1, $2) => {
+                res[$2] = $1.length;
+                if (num < $1.length) {
+                    num = $1.length;
+                    chat = $2;
+                }
+            })
+            res['maxChat'] = { [chat]: num }
+            return res
+        }
+        console.log(findStr("abcabcabcbbccccc"))
+        let conveterNum = (num) => {
+            num = parseFloat(num.toFixed(3));
+            let [int, dec] = String.prototype.split.call(num, ".");
+            let reg = /\d(?=(\d{3})+$)/g
+            int = int.replace(reg, '$&,');
+            return int + (dec ? '.' + dec : '')
+        }
+        console.log(conveterNum(1234563.4567))
+        function testPhone(val) {
+            let reg = /^1[34578]\d{9}$/
+            return reg.test(val)
+        }
+        console.log(testPhone(18822409690))
+        function maxLengthStr(str) {
+            let res = 0, i = 0, temp = [];
+            while (i < str.length) {
+                if (temp.indexOf(str[i]) === -1) {
+                    temp.push(str[i])
+                } else {
+                    temp.shift(str[i])
+                    continue;
+                }
+                res = Math.max(res, temp.length)
+                i++
+            }
+            return res
+        }
+        console.log(maxLengthStr('abcabcbb'))
+        function encodeTel(tel) {
+            tel = "" + tel
+            // let reg = /(\d{3})\d{4}(\d{4})/;
+            // return tel.replace(reg, '$1****$2')
+            // telArr = tel.split("")
+            // telArr.splice(3, 4, "****")
+            // tel = telArr.join("");
+            // return tel
+            return tel.substr(0, 3) + "****" + tel.substr(7)
+        }
+        console.log(encodeTel(18822409690))
+        function isPD(str) {
+            let str2 = str.split("").reverse().join("");
+            return str === str2
+        }
+        console.log(isPD('aba4'))
+        let obj = {
+            name: "test",
+            age: ""
+        }
+        Object.keys(obj).forEach((key) => {
+            Object.defineProperty(obj, key, {
+                get: function () {
+                    console.log("get")
+                },
+                set: function (newVal) {
+                    console.log("set", newVal)
+                }
+            })
+        })
+
+        obj.name = "test2"
+        obj.age = 12
+        let obj2 = { name: "" };
+        // Object.defineProperty
+        // Object.keys(obj2).forEach((key) => {
+        //     Object.defineProperty(obj2, key, {
+        //         get: function () {
+        //             console.log(`getting ${key}`)
+        //         },
+        //         set: function (newVal) {
+        //             document.getElementById('text').value = newVal
+        //             document.getElementById('show').innerHTML = newVal
+        //         }
+        //     })
+        // })
+        // document.getElementById("text").addEventListener("input", function (e) {
+        //     obj2.name = e.target.value
+        // })
+        // Proxy
+        let newObj = new Proxy(obj2, {
+            get: function (target, key, receiver) {
+                console.log('get', target, key, receiver);
+                return Reflect.get(target, key, receiver)
+            },
+            set: function (target, key, value, receiver) {
+                console.log('set', target, key, value, receiver);
+                if (key === 'text') {
+                    document.getElementById('text').value = value
+                    document.getElementById('show').innerHTML = value
+                }
+
+                return Reflect.set(target, key, receiver)
+            }
+        })
+        document.getElementById("text").addEventListener("input", function (e) {
+            newObj.text = e.target.value
+        })
     </script>
 </body>

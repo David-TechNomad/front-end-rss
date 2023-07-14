@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-07-07 10:09:31，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-07-14 12:00:42，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) ![](assets/new.png)  
+- [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html) ![](assets/new.png)  
+- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
 - [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)  
@@ -207,7 +208,6 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)  
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)  
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)  
-- [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,41 +1,43 @@
 // deBounce
 let deBounce = (fn, delay) => {
   let timer = null;
-  return function (...args) {
+  return function (...arg) {
     if (timer) {
       clearTimeout(timer);
     }
-    timer = setTimeout(() => {
-      fn(...args);
+    timer = timeout(() => {
+      fn(...arg);
     }, delay);
   };
 };
 // throrrle
 let throttle = (fn, delay) => {
   let flag = false;
-  return function (...args) {
+  return function (...arg) {
     if (flag) return;
     flag = true;
-    setTimeout(() => {
-      fn(...args);
+    timeout(() => {
+      fn(...arg);
       flag = false;
     }, delay);
   };
 };
 // deepClone
 let deepClone = (obj) => {
-  let newObj;
-  if (Object.prototype.toString.call(obj) === "[Object Object]") {
-    newObj = Array.isArray ? [] : {};
+  let newObj = null;
+  if (Object.prototype.toString.call(obj) === "[object object]") {
+    newObj = Array.isArray(obj) ? [] : {};
     for (let key in obj) {
-      newObj[key] =
-        Object.prototype.toString.call(obj[key]) === "[Object Object]"
-          ? deepClone(obj[key])
-          : obj[key];
+      if (Object.prototype.toString.call(obj[key]) === "[object object]") {
+        newObj[key] = deepClone(obj[key]);
+      } else {
+        newObj[key] = obj[key];
+      }
     }
   } else {
     newObj = obj;
   }
+  return newObj;
 };
 // instanceOf
 let instance_of = (l, r) => {

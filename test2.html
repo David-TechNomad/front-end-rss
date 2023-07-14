@@ -457,5 +457,13 @@
         document.getElementById("text").addEventListener("input", function (e) {
             newObj.text = e.target.value
         })
+        function toHump(value) {
+            return value.replace(/\_(\w)/g, ($1, $2) => $2.toUpperCase())
+        }
+        console.log(toHump("sdfs_sfd_rggf_uytr"))
+        function toLine(value) {
+            return value.replace(/([A-Z])/g, '_$1').toLowerCase();
+        }
+        console.log(toLine("asdfGsdgfWasdfasOhh"))
     </script>
 </body>

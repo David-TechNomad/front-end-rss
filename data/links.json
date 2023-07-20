@@ -23268,6 +23268,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS高宽不等图片固定比例布局的三重进化",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/",
+        "date": "2023-07-20"
+      },
+      {
         "title": "CSS sin()/cos()等数学三角函数简介与应用",
         "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/",
         "date": "2023-06-30"

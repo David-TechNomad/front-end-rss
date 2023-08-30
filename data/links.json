@@ -23268,6 +23268,26 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Web referrer策略详解与防盗链图片的显示",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/",
+        "date": "2023-08-29"
+      },
+      {
+        "title": "狠狠地研究了下 PerformanceObserver API",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/",
+        "date": "2023-08-27"
+      },
+      {
+        "title": "查漏补缺，我仍未知道的HTML nonce和popover属性",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/",
+        "date": "2023-08-10"
+      },
+      {
+        "title": "HTML kbd、var、samp元素你使用过没？",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/",
+        "date": "2023-07-31"
+      },
+      {
         "title": "5分钟快速了解text-wrap:balance的作用",
         "link": "https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/",
         "date": "2023-07-25"
@@ -24469,6 +24489,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人",
+        "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html",
+        "date": "2023-08-25"
+      },
+      {
+        "title": "科技爱好者周刊（第 267 期）：5G 的春天要来了",
+        "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html",
+        "date": "2023-08-18"
+      },
+      {
+        "title": "科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书",
+        "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html",
+        "date": "2023-08-11"
+      },
       {
         "title": "科技爱好者周刊（第 264 期）：Elasticsearch 的启示",
         "link": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html",
@@ -25891,6 +25926,31 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "彻底搞懂 package.json 中的 exports, main, module, type",
+        "link": "http://www.yyyweb.com/5522.html",
+        "date": "2023-08-20"
+      },
+      {
+        "title": "Mac 环境快速安装 Homebrew & Nginx 教程",
+        "link": "http://www.yyyweb.com/5518.html",
+        "date": "2023-08-19"
+      },
+      {
+        "title": "基于 Electron + Vue3 搭建一个桌面应用",
+        "link": "http://www.yyyweb.com/5512.html",
+        "date": "2023-07-29"
+      },
+      {
+        "title": "如何免费使用 ChatGPT？无需花钱，尽情探索！",
+        "link": "http://www.yyyweb.com/5515.html",
+        "date": "2023-07-05"
+      },
+      {
+        "title": "Vue 3.3 正式发布，代号“浪客剑心”",
+        "link": "http://www.yyyweb.com/5510.html",
+        "date": "2023-06-29"
+      },
       {
         "title": "国内开通 Chat GPT Plus 保姆级教程【收藏】",
         "link": "http://www.yyyweb.com/5508.html",

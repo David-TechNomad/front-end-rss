@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-07-28 12:00:41，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-08-30 12:00:43，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,9 +19,9 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,6 +157,10 @@
 </summary>
 
 
+- [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/) ![](assets/new.png)  
+- [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/) ![](assets/new.png)  
+- [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/) ![](assets/new.png)  
+- [2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/) ![](assets/new.png)  
 - [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/)  
 - [2023-07-20-CSS高宽不等图片固定比例布局的三重进化](https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/)  
 - [2023-06-30-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/)  
@@ -173,10 +177,6 @@
 - [2022-05-12-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)  
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)  
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)  
-- [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)  
-- [2022-03-27-使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)  
-- [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/)  
-- [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,10 @@
 </summary>
 
 
-- [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) ![](assets/new.png)  
+- [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html) ![](assets/new.png)  
+- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) ![](assets/new.png)  
+- [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html) ![](assets/new.png)  
+- [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)  
 - [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)  
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
@@ -205,9 +208,6 @@
 - [2022-03-04-科技爱好者周刊（第-197-期）：如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)  
 - [2022-02-25-科技爱好者周刊（第-196-期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)  
 - [2022-02-18-科技爱好者周刊（第-195-期）：你做过不在乎结果的项目吗？](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)  
-- [2022-02-11-科技爱好者周刊（第-194-期）：悲观者正确，乐观者成功](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)  
-- [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)  
-- [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,6 +219,11 @@
 </summary>
 
 
+- [2023-08-20-彻底搞懂-package.json-中的-exports,-main,-module,-type](http://www.yyyweb.com/5522.html) ![](assets/new.png)  
+- [2023-08-19-Mac-环境快速安装-Homebrew-&-Nginx-教程](http://www.yyyweb.com/5518.html) ![](assets/new.png)  
+- [2023-07-29-基于-Electron-+-Vue3-搭建一个桌面应用](http://www.yyyweb.com/5512.html) ![](assets/new.png)  
+- [2023-07-05-如何免费使用-ChatGPT？无需花钱，尽情探索！](http://www.yyyweb.com/5515.html) ![](assets/new.png)  
+- [2023-06-29-Vue-3.3-正式发布，代号“浪客剑心”](http://www.yyyweb.com/5510.html) ![](assets/new.png)  
 - [2023-04-09-国内开通-Chat-GPT-Plus-保姆级教程【收藏】](http://www.yyyweb.com/5508.html)  
 - [2023-02-26-最全的-“文本溢出截断省略”-CSS-&-JS-方案](http://www.yyyweb.com/5506.html)  
 - [2023-02-11-8个-CSS-&-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html)  
@@ -234,11 +239,6 @@
 - [2022-03-29-Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](http://www.yyyweb.com/5448.html)  
 - [2022-03-06-2022，前端工具链十年盘点](http://www.yyyweb.com/5445.html)  
 - [2022-03-06-淘宝-npm-域名切换-&&-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html)  
-- [2022-02-13-人生的破局点：马斯洛层次需求「倒序实现」理论](http://www.yyyweb.com/5440.html)  
-- [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html)  
-- [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html)  
-- [2021-12-11-对混沌工程的五个常见的误解](http://www.yyyweb.com/5428.html)  
-- [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

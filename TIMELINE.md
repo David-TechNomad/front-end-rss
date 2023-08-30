@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-28 12:00:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-08-30 12:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -105,7 +105,7 @@
 <td><a href="#2023-05">05月</a></td>
 <td><a href="#2023-06">06月</a></td>
 <td><a href="#2023-07">07月</a></td>
-<td>08月</td>
+<td><a href="#2023-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
@@ -171,17 +171,38 @@
 ## 文章链接
 
 <details open>
+<summary id="2023-08">
+ 2023-08
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/) 
+- [【阮一峰的网络日志】2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html) 
+- [【阮一峰的网络日志】2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) 
+- [【阮一峰的网络日志】2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html) 
+- [【前端里】2023-08-20-彻底搞懂-package.json-中的-exports,-main,-module,-type](http://www.yyyweb.com/5522.html) 
+- [【前端里】2023-08-19-Mac-环境快速安装-Homebrew-&-Nginx-教程](http://www.yyyweb.com/5518.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
 <summary id="2023-07">
  2023-07
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-07-20-CSS高宽不等图片固定比例布局的三重进化](https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/) 
 - [【阮一峰的网络日志】2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) 
 - [【阮一峰的网络日志】2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html) 
 - [【阮一峰的网络日志】2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html) 
 - [【阮一峰的网络日志】2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
+- [【前端里】2023-07-29-基于-Electron-+-Vue3-搭建一个桌面应用](http://www.yyyweb.com/5512.html) 
+- [【前端里】2023-07-05-如何免费使用-ChatGPT？无需花钱，尽情探索！](http://www.yyyweb.com/5515.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -200,6 +221,7 @@
 - [【阮一峰的网络日志】2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
 - [【阮一峰的网络日志】2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) 
 - [【阮一峰的网络日志】2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html) 
+- [【前端里】2023-06-29-Vue-3.3-正式发布，代号“浪客剑心”](http://www.yyyweb.com/5510.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-28 12:00:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-08-30 12:00:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -43,6 +43,7 @@
 - [2018-11-07-Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect) 
 - [2018-10-25-gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect) 
 - [2018-10-03-RESTful-API-最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html) 
+- [2023-08-19-Mac-环境快速安装-Homebrew-&-Nginx-教程](http://www.yyyweb.com/5518.html) 
 - [2018-09-06-Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html) 
 - [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690) 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 

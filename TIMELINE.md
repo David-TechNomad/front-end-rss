@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-30 23:55:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-09-01 12:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -106,7 +106,7 @@
 <td><a href="#2023-06">06月</a></td>
 <td><a href="#2023-07">07月</a></td>
 <td><a href="#2023-08">08月</a></td>
-<td>09月</td>
+<td><a href="#2023-09">09月</a></td>
 <td>10月</td>
 <td>11月</td>
 <td>12月</td>
@@ -169,6 +169,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2023-09">
+ 2023-09
+</summary>
+
+
+- [【阮一峰的网络日志】2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2023-08">

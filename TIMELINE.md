@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-01 12:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-09-02 12:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -177,6 +177,8 @@
 
 
 - [【阮一峰的网络日志】2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) 
+- [【前端里】2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html) 
+- [【前端里】2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

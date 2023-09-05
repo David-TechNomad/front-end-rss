@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-05 12:30:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-09-05 23:15:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -176,6 +176,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) 
 - [【阮一峰的网络日志】2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) 
 - [【前端里】2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html) 
 - [【前端里】2023-09-02-10-个图像悬停效果-CSS-&-JavaScript-代码片段](http://www.yyyweb.com/5531.html) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-05 12:30:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-09-05 23:15:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -45,6 +45,7 @@
 - [2018-12-17-WebGL-纹理详解](https://fed.taobao.org/blog/2018/12/17/webgl-texture/) 
 - [2018-03-05-G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](https://fed.taobao.org/blog/2018/03/05/intro-to-g3d/) 
 - [2017-07-27-GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/) 
+- [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) 
 - [2021-09-12-APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/) 
 - [2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/) 
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-09-05 12:30:02，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-09-05 23:15:52，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,9 +19,9 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) ![](assets/new.png)  
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
@@ -176,7 +177,6 @@
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2022-05-12-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)  
-- [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html) ![](assets/new.png)  
+- [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
 - [2023-09-02-10-个图像悬停效果-CSS-&-JavaScript-代码片段](http://www.yyyweb.com/5531.html)  
 - [2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html)  
 - [2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html)  

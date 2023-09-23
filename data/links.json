@@ -23268,6 +23268,21 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "又get到了，JS复制图片到剪切板",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/",
+        "date": "2023-09-17"
+      },
+      {
+        "title": "HTML elementtiming属性初体验记录",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/",
+        "date": "2023-09-15"
+      },
+      {
+        "title": "Tips：form元素reset后input不触发change事件处理",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/",
+        "date": "2023-09-12"
+      },
+      {
         "title": "做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具",
         "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/",
         "date": "2023-09-05"
@@ -24499,6 +24514,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影",
+        "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html",
+        "date": "2023-09-22"
+      },
+      {
+        "title": "科技爱好者周刊（第 271 期）：非线性的世界，线性的你",
+        "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html",
+        "date": "2023-09-15"
+      },
+      {
+        "title": "科技爱好者周刊（第 270 期）：\"精益开发\"的精益是什么？",
+        "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html",
+        "date": "2023-09-08"
+      },
       {
         "title": "科技爱好者周刊（第 269 期）：为什么英雄不使用炸药",
         "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html",
@@ -25941,6 +25971,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "Bun 1.0 正式发布，快如闪电，遥遥领先！",
+        "link": "http://www.yyyweb.com/5537.html",
+        "date": "2023-09-12"
+      },
       {
         "title": "环境变量过多导致 Node.js 容器无法启动的问题",
         "link": "http://www.yyyweb.com/5535.html",

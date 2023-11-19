@@ -23268,6 +23268,26 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "mp4box.js加WebCodecs 解码MP4视频帧并渲染",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/",
+        "date": "2023-11-15"
+      },
+      {
+        "title": "聊聊Web网页中资源加载的优先级",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/",
+        "date": "2023-10-29"
+      },
+      {
+        "title": "纯JS实现多个音频的拼接或者合并",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/",
+        "date": "2023-10-10"
+      },
+      {
+        "title": "JS改变AudioBuffer音量并下载为新audio音频",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/",
+        "date": "2023-10-09"
+      },
+      {
         "title": "又get到了，JS复制图片到剪切板",
         "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/",
         "date": "2023-09-17"
@@ -24514,6 +24534,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 278 期）：棘手的 AI 版权",
+        "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html",
+        "date": "2023-11-17"
+      },
+      {
+        "title": "科技爱好者周刊（第 277 期）：工作台副屏的最佳选择",
+        "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html",
+        "date": "2023-11-10"
+      },
+      {
+        "title": "科技爱好者周刊（第 276 期）：内容行业的衰落",
+        "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html",
+        "date": "2023-11-03"
+      },
       {
         "title": "科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影",
         "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html",
@@ -25971,6 +26006,36 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "性能大幅提升！Vite 5.0 正式发布！",
+        "link": "http://www.yyyweb.com/5554.html",
+        "date": "2023-11-17"
+      },
+      {
+        "title": "【分享收藏】2023年十大接口测试工具",
+        "link": "http://www.yyyweb.com/5551.html",
+        "date": "2023-11-04"
+      },
+      {
+        "title": "ssh-rsa 问题：No matching host key type found.",
+        "link": "http://www.yyyweb.com/5548.html",
+        "date": "2023-11-04"
+      },
+      {
+        "title": "抓包神器 Charles 的安装、配置及使用",
+        "link": "http://www.yyyweb.com/5546.html",
+        "date": "2023-10-15"
+      },
+      {
+        "title": "8个实现网站滚动效果的 CSS & JavaScript 代码",
+        "link": "http://www.yyyweb.com/5540.html",
+        "date": "2023-10-06"
+      },
+      {
+        "title": "通过案例，彻底理解 Vue 中的 sync 修饰符",
+        "link": "http://www.yyyweb.com/5543.html",
+        "date": "2023-10-03"
+      },
       {
         "title": "Bun 1.0 正式发布，快如闪电，遥遥领先！",
         "link": "http://www.yyyweb.com/5537.html",

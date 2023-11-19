@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-09-23 12:00:45，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-11-19 12:00:16，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -157,9 +157,13 @@
 </summary>
 
 
-- [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/) ![](assets/new.png)  
-- [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/) ![](assets/new.png)  
-- [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/) ![](assets/new.png)  
+- [2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/) ![](assets/new.png)  
+- [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) ![](assets/new.png)  
+- [2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/) ![](assets/new.png)  
+- [2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/) ![](assets/new.png)  
+- [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)  
+- [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  
+- [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
@@ -173,10 +177,6 @@
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)  
 - [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)  
-- [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)  
-- [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
-- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
-- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,9 +188,12 @@
 </summary>
 
 
-- [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) ![](assets/new.png)  
-- [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) ![](assets/new.png)  
-- [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) ![](assets/new.png)  
+- [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) ![](assets/new.png)  
+- [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) ![](assets/new.png)  
+- [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) ![](assets/new.png)  
+- [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
+- [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
+- [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
@@ -205,9 +208,6 @@
 - [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)  
 - [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)  
 - [2022-05-06-科技爱好者周刊（第-205-期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)  
-- [2022-05-05-打包工具-rollup.js-入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html)  
-- [2022-03-25-科技爱好者周刊（第-200-期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)  
-- [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,13 @@
 </summary>
 
 
-- [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html) ![](assets/new.png)  
+- [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html) ![](assets/new.png)  
+- [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html) ![](assets/new.png)  
+- [2023-11-04-ssh-rsa-问题：No-matching-host-key-type-found.](http://www.yyyweb.com/5548.html) ![](assets/new.png)  
+- [2023-10-15-抓包神器-Charles-的安装、配置及使用](http://www.yyyweb.com/5546.html) ![](assets/new.png)  
+- [2023-10-06-8个实现网站滚动效果的-CSS-&-JavaScript-代码](http://www.yyyweb.com/5540.html) ![](assets/new.png)  
+- [2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html) ![](assets/new.png)  
+- [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html)  
 - [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
 - [2023-09-02-10-个图像悬停效果-CSS-&-JavaScript-代码片段](http://www.yyyweb.com/5531.html)  
 - [2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html)  
@@ -233,12 +239,6 @@
 - [2023-04-09-国内开通-Chat-GPT-Plus-保姆级教程【收藏】](http://www.yyyweb.com/5508.html)  
 - [2023-02-26-最全的-“文本溢出截断省略”-CSS-&-JS-方案](http://www.yyyweb.com/5506.html)  
 - [2023-02-11-8个-CSS-&-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html)  
-- [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html)  
-- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html)  
-- [2023-02-06-Web-Components-入门教程【实例】](http://www.yyyweb.com/5491.html)  
-- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html)  
-- [2023-02-04-什么是比较好的低代码产品？](http://www.yyyweb.com/5487.html)  
-- [2023-01-14-【收藏】2022-年值得推荐的那些-Vue-库！](http://www.yyyweb.com/5485.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

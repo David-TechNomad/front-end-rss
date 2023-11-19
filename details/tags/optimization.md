@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-23 12:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-11-19 12:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -121,7 +121,9 @@
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
+- [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
+- [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2018-11-05-利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784) 

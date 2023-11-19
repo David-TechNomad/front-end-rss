@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-23 12:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-11-19 12:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1658,6 +1658,9 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) 
+- [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) 
+- [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) 
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) 
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) 
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) 
@@ -1901,6 +1904,9 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html) 
+- [2023-11-04-ssh-rsa-问题：No-matching-host-key-type-found.](http://www.yyyweb.com/5548.html) 
+- [2023-10-15-抓包神器-Charles-的安装、配置及使用](http://www.yyyweb.com/5546.html) 
 - [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html) 
 - [2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html) 
 - [2023-07-05-如何免费使用-ChatGPT？无需花钱，尽情探索！](http://www.yyyweb.com/5515.html) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-23 12:00:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-11-19 12:00:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -107,8 +107,8 @@
 <td><a href="#2023-07">07月</a></td>
 <td><a href="#2023-08">08月</a></td>
 <td><a href="#2023-09">09月</a></td>
-<td>10月</td>
-<td>11月</td>
+<td><a href="#2023-10">10月</a></td>
+<td><a href="#2023-11">11月</a></td>
 <td>12月</td>
 </tr>
 
@@ -169,6 +169,39 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2023-11">
+ 2023-11
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/) 
+- [【阮一峰的网络日志】2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) 
+- [【阮一峰的网络日志】2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) 
+- [【阮一峰的网络日志】2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) 
+- [【前端里】2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html) 
+- [【前端里】2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html) 
+- [【前端里】2023-11-04-ssh-rsa-问题：No-matching-host-key-type-found.](http://www.yyyweb.com/5548.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2023-10">
+ 2023-10
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/) 
+- [【前端里】2023-10-15-抓包神器-Charles-的安装、配置及使用](http://www.yyyweb.com/5546.html) 
+- [【前端里】2023-10-06-8个实现网站滚动效果的-CSS-&-JavaScript-代码](http://www.yyyweb.com/5540.html) 
+- [【前端里】2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2023-09">

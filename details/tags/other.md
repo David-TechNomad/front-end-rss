@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-19 12:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-12-27 12:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1617,6 +1617,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2023-11-22-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/) 
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/) 
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/) 
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/) 
@@ -1658,6 +1659,9 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) 
+- [2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) 
+- [2023-12-08-科技爱好者周刊（第-281-期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) 
 - [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) 
 - [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) 
 - [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) 

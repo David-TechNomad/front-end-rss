@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-19 12:00:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-12-27 12:00:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -109,7 +109,7 @@
 <td><a href="#2023-09">09月</a></td>
 <td><a href="#2023-10">10月</a></td>
 <td><a href="#2023-11">11月</a></td>
-<td>12月</td>
+<td><a href="#2023-12">12月</a></td>
 </tr>
 
 <tr>
@@ -171,11 +171,31 @@
 ## 文章链接
 
 <details open>
+<summary id="2023-12">
+ 2023-12
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-12-26-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/) 
+- [【阮一峰的网络日志】2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) 
+- [【阮一峰的网络日志】2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) 
+- [【阮一峰的网络日志】2023-12-08-科技爱好者周刊（第-281-期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) 
+- [【前端里】2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html) 
+- [【前端里】2023-12-09-用-JavaScript-实现一个很牛的扫码功能](http://www.yyyweb.com/5559.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
 <summary id="2023-11">
  2023-11
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2023-11-29-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-11-22-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/) 
+- [【张鑫旭-鑫空间-鑫生活】2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/) 
 - [【阮一峰的网络日志】2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) 
 - [【阮一峰的网络日志】2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) 

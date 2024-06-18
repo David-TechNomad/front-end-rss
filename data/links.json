@@ -23268,6 +23268,56 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "聊聊Top Layer顶层特性的隐患与实践",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/",
+        "date": "2024-06-11"
+      },
+      {
+        "title": "记一次技术交流，feMerge滤镜复制任意DOM元素样式",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/",
+        "date": "2024-05-30"
+      },
+      {
+        "title": "如何用简单的Web方法实现图片的马赛克效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/",
+        "date": "2024-05-20"
+      },
+      {
+        "title": "不使用font-weight等CSS实现文字变瘦或变胖效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/",
+        "date": "2024-05-12"
+      },
+      {
+        "title": "node环境中使用fluent-ffmpeg每隔一秒视频截图",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/",
+        "date": "2024-04-22"
+      },
+      {
+        "title": "今天学习SVG滤镜feGaussianBlur和feDropShadow",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/",
+        "date": "2024-04-14"
+      },
+      {
+        "title": "SVG滤镜系列之搞懂<feBlend>元素",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/",
+        "date": "2024-04-11"
+      },
+      {
+        "title": "CSS Nesting嵌套与@scope规则也太雷同了吧？",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/",
+        "date": "2024-03-31"
+      },
+      {
+        "title": "CSS initial-letter属性，嗯……也就这样吧",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/",
+        "date": "2024-03-21"
+      },
+      {
+        "title": "今天才知道，Web网页也能阻止息屏了",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/",
+        "date": "2024-03-17"
+      },
+      {
         "title": "JS实现图片相似度的判断",
         "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/",
         "date": "2023-12-26"
@@ -24559,6 +24609,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 304 期）：最受欢迎的颜色",
+        "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html",
+        "date": "2024-06-14"
+      },
+      {
+        "title": "科技爱好者周刊（第 303 期）：技术封建主义",
+        "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html",
+        "date": "2024-06-07"
+      },
+      {
+        "title": "科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了",
+        "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html",
+        "date": "2024-05-31"
+      },
       {
         "title": "科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走",
         "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html",
@@ -26046,6 +26111,56 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "利用 AnythingLLM 构建自己的私人 ChatGPT",
+        "link": "http://www.yyyweb.com/5609.html",
+        "date": "2024-06-10"
+      },
+      {
+        "title": "在自己电脑上，只需3步即可本地部署AI大模型",
+        "link": "http://www.yyyweb.com/5604.html",
+        "date": "2024-06-10"
+      },
+      {
+        "title": "ChatTTS – 爆火！开源的生成式语音合成模型",
+        "link": "http://www.yyyweb.com/5601.html",
+        "date": "2024-06-01"
+      },
+      {
+        "title": "【收藏】最全的100款处理图片的 AI 工具合集",
+        "link": "http://www.yyyweb.com/5599.html",
+        "date": "2024-05-06"
+      },
+      {
+        "title": "Kimi 帮你看更大的世界！超长对话记忆体验",
+        "link": "http://www.yyyweb.com/5587.html",
+        "date": "2024-03-17"
+      },
+      {
+        "title": "【推荐收藏】5款很好用的免费PDF分割工具！",
+        "link": "http://www.yyyweb.com/5595.html",
+        "date": "2024-03-01"
+      },
+      {
+        "title": "效果炸裂！OpenAI 发布首个视频生成模型 Sora",
+        "link": "http://www.yyyweb.com/5578.html",
+        "date": "2024-02-25"
+      },
+      {
+        "title": "HarmonyOS开发案例-界面组件在软键盘弹出时避免遮挡",
+        "link": "http://www.yyyweb.com/5581.html",
+        "date": "2024-02-15"
+      },
+      {
+        "title": "Node.js 版本和 NPM 版本的对应关系",
+        "link": "http://www.yyyweb.com/5583.html",
+        "date": "2024-01-15"
+      },
+      {
+        "title": "如何搭建 GPTs 创新应用？有哪些关键技巧？",
+        "link": "http://www.yyyweb.com/5574.html",
+        "date": "2024-01-12"
+      },
       {
         "title": "49 个常用且容易遗忘的 CSS 样式清单整理",
         "link": "http://www.yyyweb.com/5562.html",

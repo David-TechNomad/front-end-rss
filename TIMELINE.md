@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-18 15:37:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-02-08 12:00:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -95,6 +95,24 @@
 </tr>
 
 <tr>
+<th colspan="12">2025年</th>
+</tr>
+<tr>
+<td><a href="#2025-01">01月</a></td>
+<td><a href="#2025-02">02月</a></td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td>12月</td>
+</tr>
+
+<tr>
 <th colspan="12">2024年</th>
 </tr>
 <tr>
@@ -109,7 +127,7 @@
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
-<td>12月</td>
+<td><a href="#2024-12">12月</a></td>
 </tr>
 
 <tr>
@@ -187,6 +205,49 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-02">
+ 2025-02
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/) 
+- [【阮一峰的网络日志】2025-02-07-科技爱好者周刊（第-336-期）：面对-AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2025-01">
+ 2025-01
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-01-22-JS原生的深拷贝API-structuredClone函数简介](https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/) 
+- [【张鑫旭-鑫空间-鑫生活】2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/) 
+- [【张鑫旭-鑫空间-鑫生活】2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/) 
+- [【张鑫旭-鑫空间-鑫生活】2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/) 
+- [【阮一峰的网络日志】2025-01-24-科技爱好者周刊（第-335-期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) 
+- [【阮一峰的网络日志】2025-01-17-科技爱好者周刊（第-334-期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2024-12">
+ 2024-12
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) 
+- [【张鑫旭-鑫空间-鑫生活】2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) 
+- [【张鑫旭-鑫空间-鑫生活】2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/) 
+- [【张鑫旭-鑫空间-鑫生活】2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/) 
+- [【张鑫旭-鑫空间-鑫生活】2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-06">

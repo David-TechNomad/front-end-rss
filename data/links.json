@@ -23268,6 +23268,56 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS Array数组新的with方法，你知道作用吗？",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/",
+        "date": "2025-02-06"
+      },
+      {
+        "title": "JS原生的深拷贝API structuredClone函数简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/",
+        "date": "2025-01-22"
+      },
+      {
+        "title": "如何手搓SVG半圆弧，手把手教程",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/",
+        "date": "2025-01-14"
+      },
+      {
+        "title": "Broadcast Channel API简介，可实现Web页面广播通信",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/",
+        "date": "2025-01-12"
+      },
+      {
+        "title": "一个新的CSS媒体查询prefers-reduced-transparency",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/",
+        "date": "2025-01-02"
+      },
+      {
+        "title": "HTML select下拉框支持hr元素啦",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/",
+        "date": "2024-12-29"
+      },
+      {
+        "title": "如何使用JS获取系统内存、CPU/GPU、电量等信息",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/",
+        "date": "2024-12-23"
+      },
+      {
+        "title": "全新的CSS相对颜色语法-使用from和calc()",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/",
+        "date": "2024-12-11"
+      },
+      {
+        "title": "英文单词朗读基于音素预估时长的JS算法",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/",
+        "date": "2024-12-06"
+      },
+      {
+        "title": "哇哦，font-palette支持动画和palette-mix()混合函数了",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/",
+        "date": "2024-12-04"
+      },
+      {
         "title": "聊聊Top Layer顶层特性的隐患与实践",
         "link": "https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/",
         "date": "2024-06-11"
@@ -24609,6 +24659,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
+        "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html",
+        "date": "2025-02-07"
+      },
+      {
+        "title": "科技爱好者周刊（第 335 期）：年底的未来已来",
+        "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html",
+        "date": "2025-01-24"
+      },
+      {
+        "title": "科技爱好者周刊（第 334 期）：年终笔记四则",
+        "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html",
+        "date": "2025-01-17"
+      },
       {
         "title": "科技爱好者周刊（第 304 期）：最受欢迎的颜色",
         "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html",

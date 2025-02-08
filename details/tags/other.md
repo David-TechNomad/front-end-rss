@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-18 15:37:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2025-02-08 12:00:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1617,6 +1617,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) 
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) 
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) 
 - [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/) 
@@ -1662,6 +1663,9 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2025-02-07-科技爱好者周刊（第-336-期）：面对-AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html) 
+- [2025-01-24-科技爱好者周刊（第-335-期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) 
+- [2025-01-17-科技爱好者周刊（第-334-期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html) 
 - [2024-06-14-科技爱好者周刊（第-304-期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html) 
 - [2024-06-07-科技爱好者周刊（第-303-期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) 
 - [2024-05-31-科技爱好者周刊（第-302-期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) 
